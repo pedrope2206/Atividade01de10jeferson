@@ -1,0 +1,30 @@
+D:\FATEC\AMS_Proj\Ams_Tipos_Idade22\bin\Debug\net6.0\Ams_Tipos_Idade22.exe
+D:\FATEC\AMS_Proj\Ams_Tipos_Idade22\bin\Debug\net6.0\Ams_Tipos_Idade22.deps.json
+D:\FATEC\AMS_Proj\Ams_Tipos_Idade22\bin\Debug\net6.0\Ams_Tipos_Idade22.runtimeconfig.json
+D:\FATEC\AMS_Proj\Ams_Tipos_Idade22\bin\Debug\net6.0\Ams_Tipos_Idade22.dll
+D:\FATEC\AMS_Proj\Ams_Tipos_Idade22\bin\Debug\net6.0\ref\Ams_Tipos_Idade22.dll
+D:\FATEC\AMS_Proj\Ams_Tipos_Idade22\bin\Debug\net6.0\Ams_Tipos_Idade22.pdb
+D:\FATEC\AMS_Proj\Ams_Tipos_Idade22\obj\Debug\net6.0\Ams_Tipos_Idade22.csproj.AssemblyReference.cache
+D:\FATEC\AMS_Proj\Ams_Tipos_Idade22\obj\Debug\net6.0\Ams_Tipos_Idade22.GeneratedMSBuildEditorConfig.editorconfig
+D:\FATEC\AMS_Proj\Ams_Tipos_Idade22\obj\Debug\net6.0\Ams_Tipos_Idade22.AssemblyInfoInputs.cache
+D:\FATEC\AMS_Proj\Ams_Tipos_Idade22\obj\Debug\net6.0\Ams_Tipos_Idade22.AssemblyInfo.cs
+D:\FATEC\AMS_Proj\Ams_Tipos_Idade22\obj\Debug\net6.0\Ams_Tipos_Idade22.csproj.CoreCompileInputs.cache
+D:\FATEC\AMS_Proj\Ams_Tipos_Idade22\obj\Debug\net6.0\Ams_Tipos_Idade22.dll
+D:\FATEC\AMS_Proj\Ams_Tipos_Idade22\obj\Debug\net6.0\ref\Ams_Tipos_Idade22.dll
+D:\FATEC\AMS_Proj\Ams_Tipos_Idade22\obj\Debug\net6.0\Ams_Tipos_Idade22.pdb
+D:\FATEC\AMS_Proj\Ams_Tipos_Idade22\obj\Debug\net6.0\Ams_Tipos_Idade22.genruntimeconfig.cache
+C:\Users\Pedro Pivetta\desktop\AMS_Tipos_Idade22\bin\Debug\net6.0\Ams_Tipos_Idade22.exe
+C:\Users\Pedro Pivetta\desktop\AMS_Tipos_Idade22\bin\Debug\net6.0\Ams_Tipos_Idade22.deps.json
+C:\Users\Pedro Pivetta\desktop\AMS_Tipos_Idade22\bin\Debug\net6.0\Ams_Tipos_Idade22.runtimeconfig.json
+C:\Users\Pedro Pivetta\desktop\AMS_Tipos_Idade22\bin\Debug\net6.0\Ams_Tipos_Idade22.dll
+C:\Users\Pedro Pivetta\desktop\AMS_Tipos_Idade22\bin\Debug\net6.0\Ams_Tipos_Idade22.pdb
+C:\Users\Pedro Pivetta\desktop\AMS_Tipos_Idade22\obj\Debug\net6.0\Ams_Tipos_Idade22.csproj.AssemblyReference.cache
+C:\Users\Pedro Pivetta\desktop\AMS_Tipos_Idade22\obj\Debug\net6.0\Ams_Tipos_Idade22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Pivetta\desktop\AMS_Tipos_Idade22\obj\Debug\net6.0\Ams_Tipos_Idade22.AssemblyInfoInputs.cache
+C:\Users\Pedro Pivetta\desktop\AMS_Tipos_Idade22\obj\Debug\net6.0\Ams_Tipos_Idade22.AssemblyInfo.cs
+C:\Users\Pedro Pivetta\desktop\AMS_Tipos_Idade22\obj\Debug\net6.0\Ams_Tipos_Idade22.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Pivetta\desktop\AMS_Tipos_Idade22\obj\Debug\net6.0\Ams_Tipos_Idade22.dll
+C:\Users\Pedro Pivetta\desktop\AMS_Tipos_Idade22\obj\Debug\net6.0\refint\Ams_Tipos_Idade22.dll
+C:\Users\Pedro Pivetta\desktop\AMS_Tipos_Idade22\obj\Debug\net6.0\Ams_Tipos_Idade22.pdb
+C:\Users\Pedro Pivetta\desktop\AMS_Tipos_Idade22\obj\Debug\net6.0\Ams_Tipos_Idade22.genruntimeconfig.cache
+C:\Users\Pedro Pivetta\desktop\AMS_Tipos_Idade22\obj\Debug\net6.0\ref\Ams_Tipos_Idade22.dll
